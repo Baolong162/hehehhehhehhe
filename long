@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Đăng Nhập </title>
+    </head>
+    <body> 
+        <form>
+            <div><h2><strong>Đăng nhập</strong></h2>
+                <label>Tên Đăng Nhập:</label>
+                <input type="text" id="name" placeholder="ten dang nhap"><br>
+                <label>Mật Khẩu:</label>
+                <input type="password" id="name" placeholder="mat khau"><br>
+            </div>
+        </form>
+        <form>
+            <input type="submit" id="html" name="fav_languge" value="Đăng nhập"><br>
+        </form>
+    </body>
+</html>
